@@ -8,4 +8,3 @@ Cython==0.29.32
 setuptools==60.0.0
 cloudpickle==2.0.0
 yfinance==0.1.63
-pip==24.1.2
